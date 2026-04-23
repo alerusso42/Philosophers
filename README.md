@@ -35,6 +35,7 @@ If a philosopher does not start eating within ${time_to_die} milliseconds since 
 
  Deadlocks happens when two or more philosophers take their left fork
  simultaneously, waiting for a right fork that will never be released.
+
                  _____________________
                 |        🍴🧔🏼        |
                 |                    |
